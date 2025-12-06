@@ -1,16 +1,66 @@
-## Hi there 👋
+# [ INTERACT FREELY ]
 
-<!--
-**zydr4t3/zydr4t3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*► furry, lgbtq+, adhd & autistic*
 
-Here are some ideas to get you started:
+*► gore lovers, lore enthusiasts*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*► people from my fandoms*
+
+*► artists / writers*
+
+
+
+# [ INTERACT W/CAUTION ]
+
+*► freakazoids*
+
+*► 15 and under*
+
+*► overly sensitive people*
+
+*► chronically online people*
+
+*► car lovers*
+
+*► strangers / randoms*
+
+
+
+# [ DO NOT INTERACT ]
+
+*► basic criteria*
+
+*► 13 and under, overly sensitive*
+
+*► age-reg / age-play*
+
+*► pro-shippers, fetishists*
+
+*► constant venters*
+
+*► car lovers*
+
+*► dni fandom list*
+
+
+# [ DNI FANDOM LIST ]
+
+*► Dandy's World (Roblox)*
+
+*► Forsaken (Roblox)*
+
+*► Hazbin Hotel (Show)*
+
+*► Helluva Boss (Show)*
+
+*► Alfred's Playhouse (Media)*
+
+*► Psychocuties (Media)*
+
+*► Terrible Mouse (Media)*
+
+*► Changed (Game)*
+
+*► Okegom (Game)*
+
+*► The Coffin Of Leyley and Andy (Game)*
