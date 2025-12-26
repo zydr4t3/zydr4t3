@@ -49,10 +49,6 @@
 
 *► Forsaken (Roblox)*
 
-*► Hazbin Hotel (Show)*
-
-*► Helluva Boss (Show)*
-
 *► Alfred's Playhouse (Media)*
 
 *► Psychocuties (Media)*
