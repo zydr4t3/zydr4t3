@@ -14,7 +14,7 @@
 
 *► freakazoids*
 
-*► 15 and under*
+*► 16 and under*
 
 *► overly sensitive people*
 
