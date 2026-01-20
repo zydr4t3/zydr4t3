@@ -22,7 +22,8 @@ $${\space \color{#e0e0e0}The \space \color{#e0e0e0}house \space \color{#e0e0e0}a
 
 </details>
 
-<details>
+<details align="center">
+
 <summary>ㅤ ${\textsf{\color{#e0e0e0}My top kins/fictionkins}}$ !! </summary>
   
   <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/sageicon.png" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/adam%20sip.png"></a>ㅤ ⊹ [Adam](https://villains.fandom.com/wiki/Adam_(Hellaverse)) [ Hazbin Hotel ] ・ Heavy Fictkin.
