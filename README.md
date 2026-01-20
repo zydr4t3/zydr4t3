@@ -38,7 +38,7 @@ $${\space \color{#e0e0e0}The \space \color{#e0e0e0}house \space \color{#e0e0e0}a
   
   <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/charlie%20dompler.png"></a>ㅤ ⊹ [Charlie Dompler](https://smilingfriends.fandom.com/wiki/Charlie_Dompler) [ Smiling Friends ] ・ Fictkin.
 
-  <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/sebicon.png" target="_blank"><img width="32" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/maddox.png"></a>ㅤ⊹ [Dr. Maddox Hickey](https://docs.google.com/document/d/1G55X3VHZhBSBKIfZiAAfil9Uyn8-GwWaI1tQaddDcR4/edit?usp=sharing) [ Project:M.A.D. ] ・ Flicker Fiction.
+  <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/sebicon.png" target="_blank"><img width="32" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/maddox.png"></a>ㅤ⊹ [Dr. Maddox Hickey](https://docs.google.com/document/d/1G55X3VHZhBSBKIfZiAAfil9Uyn8-GwWaI1tQaddDcR4/edit?usp=sharing) [ Project:M.A.D. ] ・ Fictkin.
 
   <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/jackicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/sheldon.png"></a>ㅤ ⊹ [Sheldon Cooper](https://characterpedia.fandom.com/wiki/Sheldon_Cooper) [ The Big Bang Theory ] ・ Flicker Fiction.
  
