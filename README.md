@@ -16,7 +16,7 @@ $${\space \color{#e0e0e0}The \space \color{#e0e0e0}house \space \color{#e0e0e0}a
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4o2d5zu4y6t811jd9ri6vmk0t&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=02ffff)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](spotify-github-profile.svg)
 
 </div>
 
