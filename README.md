@@ -13,9 +13,10 @@ $${\space \color{#e0e0e0}The \space \color{#e0e0e0}house \space \color{#e0e0e0}a
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[atabook](https://suckmyholylight.atabook.org)⠀⠀⠀[kofi](https://ko-fi.com/zydr4t3/commissions)⠀⠀⠀[strawpage](https://suckmyholylight.straw.page/)
 
 ******
+
 <div align="center">
 
-[![spotify-github-profile](https://i.scdn.co/image/ab67757000003b82e09f8d4c7f72107a06cd72a9)](https://open.spotify.com/user/31fqz46zw2y7jnxi6go7u4kad3ii?si=145c22280c2c4dde)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4o2d5zu4y6t811jd9ri6vmk0t&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=02ffff)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
