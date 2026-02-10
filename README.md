@@ -1,7 +1,7 @@
 ******
 
 $${\space \color{#949494}I'm \space \color{#949494}prolly \space \color{#949494}gonna \space \color{#949494}burn \space \color{#949494}for \space \color{#949494}this, }$$
-$${\space \color{#949494}ain't \space \color{#949494}no \space \color{#949494}lessen \space \color{#949494}to \space \color{#949494}learn \space \color{#949494}from \space \color{#949494}this,}$$
+$${\space \color{#949494}ain't \space \color{#949494}no \space \color{#949494}lesson \space \color{#949494}to \space \color{#949494}learn \space \color{#949494}from \space \color{#949494}this,}$$
 $${\space \color{#949494}there's \space \color{#949494}nothing \space \color{#949494}I'ma \space \color{#949494}earn -}$$
 $${\space \color{#e0e0e0}but \space \color{#e0e0e0}it \space \color{#e0e0e0}sure \space \color{#e0e0e0}is \space \color{#e0e0e0}fun.}$$
 
