@@ -1,13 +1,12 @@
 ******
 
-$${\space \color{#949494}Might \space \color{#949494}be \space \color{#949494}safer \space \color{#949494}in \space \color{#949494}the \space \color{#949494}desert,}$$
-$${\space \color{#949494}only \space \color{#949494}dust \space \color{#949494}to \space \color{#949494}judge \space \color{#949494}your \space \color{#949494}sins,}$$
-$${\space \color{#949494}those \space \color{#949494}who \space \color{#949494}wager \space \color{#949494}aren't \space \color{#949494}so \space \color{#949494}clever,}$$
-$${\space \color{#949494}'cause \space \color{#949494}in \space \color{#949494}Heaven, \space \color{#949494}well.. \space}$$
-$${\space \color{#e0e0e0}The \space \color{#e0e0e0}house \space \color{#e0e0e0}always \space \color{#e0e0e0}wins.}$$
+$${\space \color{#949494}I'm \space \color{#949494}prob'ly \space \color{#949494}gonna \space \color{#949494}burn \space \color{#949494}for \space \color{#949494}this, }$$
+$${\space \color{#949494}ain't \space \color{#949494}no \space \color{#949494}lessen \space \color{#949494}to \space \color{#949494}learn \space \color{#949494}from \space \color{#949494}this,}$$
+$${\space \color{#949494}there's \space \color{#949494}nothing \space \color{#949494}I'ma \space \color{#949494}earn -}$$
+$${\space \color{#e0e0e0}but \space \color{#e0e0e0}it \space \color{#e0e0e0}sure \space \color{#e0e0e0}is \space \color{#e0e0e0}fun.}$$
 
 <div align = center>
-<img width="536" height="391" alt="5HY2G0s" src="https://i.pinimg.com/1200x/91/31/59/9131598eb80a44caa449bdf2422d0246.jpg" />
+<img width="536" height="391" alt="5HY2G0s" src="https://i.pinimg.com/1200x/8f/aa/58/8faa583d8f7715e41cca60054902b6b3.jpg" />
 </div>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[atabook](https://suckmyholylight.atabook.org)⠀⠀⠀[kofi](https://ko-fi.com/zydr4t3/commissions)⠀⠀⠀[strawpage](https://suckmyholylight.straw.page/)
