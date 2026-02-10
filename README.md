@@ -6,7 +6,7 @@ $${\space \color{#949494}there's \space \color{#949494}nothing \space \color{#94
 $${\space \color{#e0e0e0}but \space \color{#e0e0e0}it \space \color{#e0e0e0}sure \space \color{#e0e0e0}is \space \color{#e0e0e0}fun.}$$
 
 <div align = center>
-<img width="536" height="391" alt="5HY2G0s" src="https://i.pinimg.com/1200x/8f/aa/58/8faa583d8f7715e41cca60054902b6b3.jpg" />
+<img width="536" height="391" alt="5HY2G0s" src="https://i.pinimg.com/1200x/dc/f1/78/dcf1786bb9fd7102e8afdf560c25d0a2.jpg" />
 </div>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[atabook](https://suckmyholylight.atabook.org)⠀⠀⠀[kofi](https://ko-fi.com/zydr4t3/commissions)⠀⠀⠀[strawpage](https://suckmyholylight.straw.page/)
