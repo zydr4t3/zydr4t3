@@ -1,9 +1,11 @@
 ******
 
-$${\space \color{#949494}I'm \space \color{#949494}prolly \space \color{#949494}gonna \space \color{#949494}burn \space \color{#949494}for \space \color{#949494}this, }$$
-$${\space \color{#949494}ain't \space \color{#949494}no \space \color{#949494}lesson \space \color{#949494}to \space \color{#949494}learn \space \color{#949494}from \space \color{#949494}this,}$$
-$${\space \color{#949494}there's \space \color{#949494}nothing \space \color{#949494}I'ma \space \color{#949494}earn -}$$
-$${\space \color{#e0e0e0}but \space \color{#e0e0e0}it \space \color{#e0e0e0}sure \space \color{#e0e0e0}is \space \color{#e0e0e0}fun.}$$
+$${\space \color{#949494}All \space \color{#949494}eyes \space \color{#949494}on \space \color{#949494}me, \space \color{#949494}now \space \color{#949494}open \space \color{#949494}wide.}$$
+$${\space \color{#949494}You \space \color{#949494}know \space \color{#949494}what's \space \color{#949494}wrong \space \color{#949494}with \space \color{#949494}you,}$$
+$${\space \color{#949494}a \space \color{#949494}lethal \space \color{#949494}case \space \color{#949494}of \space \color{#949494}déjà \space \color{#949494}vu.}$$
+$${\space \color{#949494}Maybe \space \color{#949494}you're \space \color{#949494}sane,}$$
+$${\space \color{#949494}maybe \space \color{#949494}just \space \color{#949494}paranoid...}$$
+$${\space \color{#e0e0e0}I \space \color{#e0e0e0}hear \space \color{#e0e0e0}them. }$$
 
 <div align = center>
 <img width="536" height="391" alt="5HY2G0s" src="https://i.pinimg.com/736x/28/1d/09/281d09a3d1298d9dba8bde5b91723519.jpg" />
@@ -48,7 +50,7 @@ $${\space \color{#e0e0e0}but \space \color{#e0e0e0}it \space \color{#e0e0e0}sure
 
 <summary>ㅤ ${\textsf{\color{#e0e0e0}My top kins/fictionkins}}$ !! </summary>
 
-  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/topher.png"></a>ㅤ ★ [Shadow Milk Cookie](https://villains.fandom.com/wiki/Shadow_Milk_Cookie) [ Cookie Run Kingdom ] ・ Fictkin (?)
+  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/smc_smile.png"></a>ㅤ ★ [Shadow Milk Cookie](https://villains.fandom.com/wiki/Shadow_Milk_Cookie) [ Cookie Run Kingdom ] ・ Fictkin (?)
 
   <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/topher.png"></a>ㅤ ᯓ [Topher Bus](https://villains.fandom.com/wiki/Topher_Bus) [ Clone High ] ・ Fictkin.
   
