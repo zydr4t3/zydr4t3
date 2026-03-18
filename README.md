@@ -39,7 +39,7 @@ $${\space \color{#e0e0e0}I \space \color{#e0e0e0}hear \space \color{#e0e0e0}them
 
   <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/225f0b76.png?v=49efbe4c"></a>ㅤ » I have Autism and OCD, currently working on an NPD diagnosis.
 
-   <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/8e9c37dc.gif?v=49efbe4c"></a>ㅤ » If you see me kinshift or switch names, do not refer to me as my old name unless given permision.
+   <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/8e9c37dc.gif?v=49efbe4c"></a>ㅤ » Please only use the names listed on my profile. If unsure, message me.
 
   <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery92/e9c997f9.gif?v=49efbe4c"></a>ㅤ » Do not interact if you support any kind of proshipping, especially public proship that exposes others to it.
   
