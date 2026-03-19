@@ -50,7 +50,7 @@ $${\space \color{#e0e0e0}I \space \color{#e0e0e0}hear \space \color{#e0e0e0}them
 
 <summary>ㅤ ${\textsf{\color{#e0e0e0}My top kins/fictionkins}}$ !! </summary>
 
-  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/smc_smile.png"></a>ㅤ ★ [Shadow Milk Cookie](https://villains.fandom.com/wiki/Shadow_Milk_Cookie) [ Cookie Run Kingdom ] ・ Fictkin (?)
+  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/smc_smile.png"></a>ㅤ ★ [Shadow Milk Cookie](https://villains.fandom.com/wiki/Shadow_Milk_Cookie) [ Cookie Run Kingdom ] ・ Heavy(?) Fictkin
 
   <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/topher.png"></a>ㅤ ᯓ [Topher Bus](https://villains.fandom.com/wiki/Topher_Bus) [ Clone High ] ・ Fictkin.
   
