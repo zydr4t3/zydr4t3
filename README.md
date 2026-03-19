@@ -1,5 +1,5 @@
 > [!NOTE]
-> The owner of this account is not a roleplayer. They are a fictionkin, meaning they, to some extent, believe that they are the character their profile is built around. Ships IWC. Please do not treat said user like a C.AI bot, as they are still human, just like you... Or in their case - your dough is the same as theirs.</a>
+> The owner of this account is not a roleplayer - They are a fictionkin. This means they, to some extent, believe that they are the character their profile is built around. Ships IWC. Please do not treat said user like a C.AI bot, as they are still human, just like you... Or in their case - your dough is the same as theirs.</a>
 
 ******
 
