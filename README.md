@@ -36,7 +36,7 @@ $${\space \color{#e0e0e0}I \space \color{#e0e0e0}hear \space \color{#e0e0e0}them
 
   <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/e7cccd33.gif?v=49efbe4c"></a>ㅤ » I have echolalia, so you will hear me repeat phrases a lot.
 
-  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/3a2bc8f8.gif?v=49efbe4c"></a>ㅤ » I am a fictionkin who doesn't mind doubles - int freely.
+  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/3a2bc8f8.gif?v=49efbe4c"></a>ㅤ » I am a fictionkin who is occasionally bothered by doubles. IWC.
 
   <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/1ad1ffa9.gif?v=49efbe4c"></a>ㅤ » I am very blunt and sarcastic - do not take all I say to heart.
 
