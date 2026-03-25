@@ -14,7 +14,7 @@ $${\space \color{#e0e0e0}I \space \color{#e0e0e0}hear \space \color{#e0e0e0}them
 <img width="536" height="391" alt="5HY2G0s" src="https://i.pinimg.com/736x/28/1d/09/281d09a3d1298d9dba8bde5b91723519.jpg" />
 </div>
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[Atabook](https://smilk.atabook.org/)⠀⠀⠀[Commissions](https://ko-fi.com/zydr4t3/commissions)⠀⠀⠀[Strawpage](https://eyesofdeceit.straw.page/)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[Atabook](https://smilk.atabook.org/)⠀⠀⠀[Commissions](https://ko-fi.com/zydr4t3/commissions)⠀⠀⠀[Rentry](https://rentry.co/shaddowmilk)
 
 ******
 
