@@ -30,7 +30,7 @@ $${\space \color{#e0e0e0}I \space \color{#e0e0e0}hear \space \color{#e0e0e0}them
 
 <summary>ㅤ ${\textsf{\color{#e0e0e0}Some things to know about me}}$ !! </summary>
 
-  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/fa60fe95.gif?v=49efbe4c"></a>ㅤ» I am a straight male, though I am aromantic... maybe aroace. Unsure yet.
+  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/fa60fe95.gif?v=49efbe4c"></a>ㅤ» I am a straight, aromantic male that goes by he/him.
   
   <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/c58e2fb3.gif?v=49efbe4c"></a>ㅤ » I mainly use he/him pronouns, but I don't mind any.
 
