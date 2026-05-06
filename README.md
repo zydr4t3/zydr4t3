@@ -52,9 +52,9 @@ $${\space \color{#e0e0e0}Nah, \space \color{#e0e0e0}but \space \color{#e0e0e0}I'
 
 <summary>ㅤ ${\textsf{\color{#e0e0e0}My top kins/fictionkins}}$ !! </summary>
 
-${\textsf{\color{#949494}★ = current fictkin  ||  ᯓ = other fictkins  ||  ⸝⸝ = kins}}$
+${\textsf{\color{#949494}★ = current  ||  ᯓ = other fictkins  ||  ⸝⸝ = kins}}$
 
-  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/dan_mandel.png"></a>ㅤ ᯓ [Dan Mandel](https://villains.fandom.com/wiki/Dan_Mandel) [ Dan VS. ] ・ Literally me in cartoon form
+  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/dan_mandel.png"></a>ㅤ ★ [Dan Mandel](https://villains.fandom.com/wiki/Dan_Mandel) [ Dan VS. ] ・ Literally me in cartoon form
 
   <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/smc_smile.png"></a>ㅤ ᯓ [Shadow Milk Cookie](https://villains.fandom.com/wiki/Shadow_Milk_Cookie) [ Cookie Run Kingdom ] ・ Fictkin
 
@@ -62,7 +62,7 @@ ${\textsf{\color{#949494}★ = current fictkin  ||  ᯓ = other fictkins  ||  �
   
   <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/adam%20sip.png"></a>ㅤ ᯓ [Adam](https://villains.fandom.com/wiki/Adam_(Hellaverse)) [ Hazbin Hotel ] ・ Fictkin.
 
-  <a href="" target="_blank"><img width="22" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/eric%20cartman.png"></a> ㅤ ★ [Eric T. Cartman](https://villains.fandom.com/wiki/Eric_Cartman) [ South Park ] ・ Fictkin
+  <a href="" target="_blank"><img width="22" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/eric%20cartman.png"></a> ㅤ ᯓ [Eric T. Cartman](https://villains.fandom.com/wiki/Eric_Cartman) [ South Park ] ・ Fictkin
 
   <a href="" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/sheldon.png"></a>ㅤ ᯓ [Sheldon Cooper](https://characterpedia.fandom.com/wiki/Sheldon_Cooper) [ TBBT ] ・ Flicker Fiction.
 
@@ -70,6 +70,6 @@ ${\textsf{\color{#949494}★ = current fictkin  ||  ᯓ = other fictkins  ||  �
 
   <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/max%20g.png"></a>ㅤ ⸝⸝ [Max G - not irl](https://braindump.fandom.com/wiki/Max) [ Brain Dump ] ・ Kin.
 
-  <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/gumball.png"></a>ㅤ ⸝⸝ [Gumball Watterson](https://theamazingworldofgumball.fandom.com/wiki/Gumball_Watterson) [ TAWoG ] ・ Kin.
+  <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/gumball.png"></a>ㅤ ⸝⸝ [Gumball Watterson](https://villains.fandom.com/wiki/Gumball_Watterson) [ TAWoG ] ・ Kin.
   
 </details>
