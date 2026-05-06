@@ -1,11 +1,9 @@
 *****
 
-$${}$$
-$${}$$
-$${}$$
-$${}$$
-$${}$$
-$${\space \color{#e0e0e0}I \space \color{#e0e0e0}hear \space \color{#e0e0e0}them. }$$
+$${\space \color{#949494}Come \space \color{#949494}here, \space \color{#949494}you \space \color{#949494}little \space \color{#949494}jerk,}$$
+$${\space \color{#949494}taste \space \color{#949494}the \space \color{#949494}back \space \color{#949494}of \space \color{#949494}my \space \color{#949494}palm.}$$
+$${\space \color{#949494}"But \space \color{#949494}you \space \color{#949494}ain't \space \color{#949494}my \space \color{#949494}daddy!"}$$
+$${\space \color{#e0e0e0}Nah, \space \color{#e0e0e0}but \space \color{#e0e0e0}I'm \space \color{#e0e0e0}doin' \space\color{#e0e0e0}ya \space \color{#e0e0e0}mom! }$$
 
 <div align = center>
 <img width="600" height="400" alt="" src="https://files.catbox.moe/rv4ojz.png" />
@@ -39,7 +37,7 @@ $${\space \color{#e0e0e0}I \space \color{#e0e0e0}hear \space \color{#e0e0e0}them
 
    <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/8e9c37dc.gif?v=49efbe4c"></a>ㅤ » Please only use the names listed on my profile. If unsure, message me.
 
-  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery92/e9c997f9.gif?v=49efbe4c"></a>ㅤ » Basic DNI criteria - more included in "PonyTown_Information".
+  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery92/e9c997f9.gif?v=49efbe4c"></a>ㅤ » Basic DNI criteria - don't be fucking weird, thanks.
 
   <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/c58e2fb3.gif?v=49efbe4c"></a>ㅤ » I am autistic and often struggle with social cues / forming sentences properly.
   
