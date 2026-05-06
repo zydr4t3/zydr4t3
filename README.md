@@ -54,7 +54,7 @@ $${\space \color{#e0e0e0}Nah, \space \color{#e0e0e0}but \space \color{#e0e0e0}I'
 
 ${\textsf{\color{#949494}★ = current fictkin  ||  ᯓ = other fictkins  ||  ⸝⸝ = kins}}$
 
-  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/smc_smile.png"></a>ㅤ ᯓ [Dan Mandel](https://villains.fandom.com/wiki/Dan_Mandel) [ Dan VS. ] ・ Literally me in cartoon form
+  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/dan_mandel.png"></a>ㅤ ᯓ [Dan Mandel](https://villains.fandom.com/wiki/Dan_Mandel) [ Dan VS. ] ・ Literally me in cartoon form
 
   <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/smc_smile.png"></a>ㅤ ᯓ [Shadow Milk Cookie](https://villains.fandom.com/wiki/Shadow_Milk_Cookie) [ Cookie Run Kingdom ] ・ Fictkin
 
