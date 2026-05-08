@@ -1,7 +1,7 @@
 *****
 
 $${\space \color{#949494}Come \space \color{#949494}here, \space \color{#949494}you \space \color{#949494}little \space \color{#949494}jerk,}$$
-$${\space \color{#949494}taste \space \color{#949494}the \space \color{#949494}back \space \color{#949494}of \space \color{#949494}my \space \color{#949494}palm.}$$
+$${\space \color{#949494}taste \space \color{#949494}the \space \color{#949494}back \space \color{#949494}of \space \color{#949494}my \space \color{#949494}palm!}$$
 $${\space \color{#949494}"But \space \color{#949494}you \space \color{#949494}ain't \space \color{#949494}my \space \color{#949494}daddy!"}$$
 $${\space \color{#e0e0e0}Nah, \space \color{#e0e0e0}but \space \color{#e0e0e0}I'm \space \color{#e0e0e0}doin' \space\color{#e0e0e0}ya \space \color{#e0e0e0}mom! }$$
 
