@@ -62,7 +62,7 @@ ${\textsf{\color{#949494}★ = current  ||  ᯓ = other fictkins  ||  ⸝⸝ = k
 
   <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/adam%20sip.png"></a>ㅤ ᯓ [ First Man Adam](https://villains.fandom.com/wiki/Adam_(Hellaverse)) [ Hazbin Hotel ] ・ Fictionflicker.
 
-  <a href="" target="_blank"><img width="32" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/maddox.png"></a>ㅤᯓ [Dr. Maddox Hickey](https://docs.google.com/document/d/1G55X3VHZhBSBKIfZiAAfil9Uyn8-GwWaI1tQaddDcR4/edit?usp=sharing) [ P:M.A.D. ] ・ Fictionflicker.
+  <a href="" target="_blank"><img width="32" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/maddox.png"></a>ㅤᯓ [Dr. Maddox Hickey](https://www.youtube.com/watch?v=AuKR2fQbMBk) [ P:M.A.D. ] ・ Fictionflicker.
 
   <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/nathan.webp"></a>ㅤ ⸝⸝ [Nathan Wallace](https://villains.fandom.com/wiki/Nathan_Wallace) [ REPO!TGO ] ・ Kin.
   
