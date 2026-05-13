@@ -56,15 +56,11 @@ ${\textsf{\color{#949494}★ = current  ||  ᯓ = other fictkins  ||  ⸝⸝ = k
 
   <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/dan_mandel.png"></a>ㅤ ★ [Dan Mandel](https://villains.fandom.com/wiki/Dan_Mandel) [ Dan VS. ] ・ Literally me in cartoon form
 
-  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/smc_smile.png"></a>ㅤ ᯓ [Shadow Milk Cookie](https://villains.fandom.com/wiki/Shadow_Milk_Cookie) [ Cookie Run Kingdom ] ・ Fictkin
-
   <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/topher.png"></a>ㅤ ᯓ [Topher Bus](https://villains.fandom.com/wiki/Topher_Bus) [ Clone High ] ・ Fictkin.
-  
-  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/adam%20sip.png"></a>ㅤ ᯓ [Adam](https://villains.fandom.com/wiki/Adam_(Hellaverse)) [ Hazbin Hotel ] ・ Fictkin.
 
-  <a href="" target="_blank"><img width="22" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/eric%20cartman.png"></a> ㅤ ᯓ [Eric T. Cartman](https://villains.fandom.com/wiki/Eric_Cartman) [ South Park ] ・ Fictkin
+  <a href="" target="_blank"><img width="22" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/eric%20cartman.png"></a> ㅤ ᯓ [Eric T. Cartman](https://villains.fandom.com/wiki/Eric_Cartman) [ South Park ] ・ Fictkin.
 
-  <a href="" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/sheldon.png"></a>ㅤ ᯓ [Sheldon Cooper](https://characterpedia.fandom.com/wiki/Sheldon_Cooper) [ TBBT ] ・ Flicker Fiction.
+  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/adam%20sip.png"></a>ㅤ ᯓ [ First Man Adam](https://villains.fandom.com/wiki/Adam_(Hellaverse)) [ Hazbin Hotel ] ・ Fictionflicker.
 
   <a href="" target="_blank"><img width="32" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/maddox.png"></a>ㅤᯓ [Dr. Maddox Hickey](https://docs.google.com/document/d/1G55X3VHZhBSBKIfZiAAfil9Uyn8-GwWaI1tQaddDcR4/edit?usp=sharing) [ P:M.A.D. ] ・ Flicker Fiction.
 
