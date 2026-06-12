@@ -60,7 +60,7 @@ ${\textsf{\color{#949494}★ = current  ||  ᯓ = other fictkins  ||  ⸝⸝ = k
 
   <a href="" target="_blank"><img width="22" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/eric%20cartman.png"></a> ㅤ ᯓ [Eric T. Cartman](https://villains.fandom.com/wiki/Eric_Cartman) [ South Park ] ・ Fictkin.
 
-  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/topher.png"></a>ㅤ ᯓ [Sheldon Cooper](https://bigbangtheory.fandom.com/wiki/Sheldon_Cooper) [ TBBT ] ・ Fictionflicker.
+  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/sheldon.png"></a>ㅤ ᯓ [Sheldon Cooper](https://bigbangtheory.fandom.com/wiki/Sheldon_Cooper) [ TBBT ] ・ Fictionflicker.
 
   <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/adam%20sip.png"></a>ㅤ ᯓ [First Man Adam](https://villains.fandom.com/wiki/Adam_(Hellaverse)) [ Hazbin Hotel ] ・ Fictionflicker.
 
