@@ -23,7 +23,7 @@ $${\space \color{#e0e0e0}Nah, \space \color{#e0e0e0}but \space \color{#e0e0e0}I'
 
 <summary>ㅤ ${\textsf{\color{#e0e0e0}Some things to know about me}}$ !! </summary>
 
-  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/fa60fe95.gif?v=49efbe4c"></a>ㅤ» I am a straight, aromantic male that goes by he/him.
+  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/fa60fe95.gif?v=49efbe4c"></a>ㅤ» For starters, I'm a straight, aroace male.
   
   <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/c58e2fb3.gif?v=49efbe4c"></a>ㅤ » I mainly use he/him pronouns, but I don't mind any.
 
@@ -31,13 +31,13 @@ $${\space \color{#e0e0e0}Nah, \space \color{#e0e0e0}but \space \color{#e0e0e0}I'
 
   <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/3a2bc8f8.gif?v=49efbe4c"></a>ㅤ » I am a fictionkin who can but doesn't always mind doubles. IWC.
 
-  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/1ad1ffa9.gif?v=49efbe4c"></a>ㅤ » I am very blunt and sarcastic - do not take all I say to heart.
+  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/1ad1ffa9.gif?v=49efbe4c"></a>ㅤ » I am very blunt and sarcastic - Do not take all I say to heart.
 
   <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/225f0b76.png?v=49efbe4c"></a>ㅤ » I have Autism and OCD, currently working on an NPD diagnosis.
 
    <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/8e9c37dc.gif?v=49efbe4c"></a>ㅤ » Please only use the names listed on my profile. If unsure, message me.
 
-  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery92/e9c997f9.gif?v=49efbe4c"></a>ㅤ » Basic DNI criteria - don't be fucking weird, thanks.
+  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery92/e9c997f9.gif?v=49efbe4c"></a>ㅤ » I don't really have a specific DNI - Just don't be weird, thanks.
 
   <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/c58e2fb3.gif?v=49efbe4c"></a>ㅤ » I am autistic and often struggle with social cues / forming sentences properly.
   
@@ -60,7 +60,7 @@ ${\textsf{\color{#949494}★ = current  ||  ᯓ = other fictkins  ||  ⸝⸝ = k
 
   <a href="" target="_blank"><img width="22" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/eric%20cartman.png"></a> ㅤ ᯓ [Eric T. Cartman](https://villains.fandom.com/wiki/Eric_Cartman) [ South Park ] ・ Fictkin.
 
-  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/adam%20sip.png"></a>ㅤ ᯓ [ First Man Adam](https://villains.fandom.com/wiki/Adam_(Hellaverse)) [ Hazbin Hotel ] ・ Fictionflicker.
+  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/adam%20sip.png"></a>ㅤ ᯓ [First Man Adam](https://villains.fandom.com/wiki/Adam_(Hellaverse)) [ Hazbin Hotel ] ・ Fictionflicker.
 
   <a href="" target="_blank"><img width="32" src="https://file.garden/aW_DAafqA36RH8b9/GitHub/maddox.png"></a>ㅤᯓ [Dr. Maddox Hickey](https://www.youtube.com/watch?v=AuKR2fQbMBk) [ P:M.A.D. ] ・ Fictionflicker.
 
