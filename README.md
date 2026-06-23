@@ -43,7 +43,7 @@ $${\space \color{#e0e0e0}Nah, \space \color{#e0e0e0}but \space \color{#e0e0e0}I'
 
   <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery92/e9c997f9.gif?v=49efbe4c"></a>ㅤ » I don't really have a specific DNI - Just don't be weird, thanks.
 
-  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/c58e2fb3.gif?v=49efbe4c"></a>ㅤ » I am autistic and often struggle with social cues / forming sentences properly.
+  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery92/f350952d.gif?v=3fc8f5cd"></a>ㅤ » I am autistic and often struggle with social cues / forming sentences properly.
   
   <a href="" target="_blank"><img width="25"></a> If you didn't understand something I said or have any questions, please
 
