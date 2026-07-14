@@ -68,10 +68,8 @@ ${\textsf{\color{#949494}★ = current  ||  ᯓ = other fictkins  ||  ⸝⸝ = k
 
   <a href="" target="_blank"><img width="32" src="https://file.garden/aW_DAafqA36RH8b9/characters/maddox.png"></a>ㅤᯓ [Dr. Maddox Hickey](https://www.youtube.com/watch?v=AuKR2fQbMBk) [ P:M.A.D. ] ・ Fictionflicker.
 
+   <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/azulin.jpg"></a>ㅤ ⸝⸝ [Azulin](https://villains.fandom.com/wiki/Bluey) [ Unicorn Wars ] ・ Heavy Kin.
+
   <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/nathan.webp"></a>ㅤ ⸝⸝ [Nathan Wallace](https://villains.fandom.com/wiki/Nathan_Wallace) [ REPO!TGO ] ・ Kin.
-
-  <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/azulin.jpg"></a>ㅤ ⸝⸝ [Azulin](https://villains.fandom.com/wiki/Bluey) [ Unicorn Wars ] ・ Kin.
-
-  <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/smarty%20pants.png"></a>ㅤ ⸝⸝ [Smarty Pants](https://disney.fandom.com/wiki/Smarty_Pants_(Toy_Story)) [ Toy Story 5 ] ・ Kin.
   
 </details>
