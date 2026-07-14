@@ -72,6 +72,8 @@ ${\textsf{\color{#949494}★ = current  ||  ᯓ = other fictkins  ||  ⸝⸝ = k
 
   <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/nathan.webp"></a>ㅤ ⸝⸝ [Nathan Wallace](https://villains.fandom.com/wiki/Nathan_Wallace) [ REPO!TGO ] ・ Kin.
 
-  <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/smarty%20pants.png"></a>ㅤ ⸝⸝ [Smarty Pants](https://villains.fandom.com/wiki/Nathan_Wallace) [ Toy Story 5 ] ・ Kin.
+  <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/azulin.jpg"></a>ㅤ ⸝⸝ [Azulin](https://villains.fandom.com/wiki/Bluey) [ Unicorn Wars ] ・ Kin.
+
+  <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/smarty%20pants.png"></a>ㅤ ⸝⸝ [Smarty Pants](https://disney.fandom.com/wiki/Smarty_Pants_(Toy_Story)) [ Toy Story 5 ] ・ Kin.
   
 </details>
