@@ -36,7 +36,7 @@ $${\space \color{#e0e0e0}Nah, \space \color{#e0e0e0}but \space \color{#e0e0e0}I'
 
   <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery11/1ad1ffa9.gif?v=49efbe4c"></a>ㅤ » I am very blunt and sarcastic - Do not take all I say to heart.
 
-  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery92/f350952d.gif?v=3fc8f5cd"></a>ㅤ » I am autistic and often struggle with social cues / forming sentences properly.
+  <a href="" target="_blank"><img width="25" src="https://gifcity.carrd.co/assets/images/gallery92/f350952d.gif?v=3fc8f5cd"></a>ㅤ » I often struggle with social cues, forming sentences properly or understanding certain topics.
   
   <a href="" target="_blank"><img width="25"></a> Don't immediately jump to conclusions if I say something you don't understand - just DM me about it.
   
