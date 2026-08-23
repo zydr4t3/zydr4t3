@@ -1,6 +1,3 @@
-<div align="center">
- >>> [ ARTFIGHT: https://artfight.net/~zydr4t3 ] <<<
-</div>
 
 *****
 
