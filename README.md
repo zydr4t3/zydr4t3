@@ -33,21 +33,23 @@
     </th>
   </tr>
   </table>
-  <a href="https://zydr4t3.atabook.org/">
-<img height="30" alt="Image" src="https://files.catbox.moe/p14wy7.webp" />
+  <div><a href="https://zydr4t3.atabook.org/">
+<img height="30" alt="Image" src="https://files.catbox.moe/p14wy7.webp">
   <a>⠀⠀</a>
   <a href="https://rentry.co/dan-vs">
-<img height="30" alt="Image" src="https://rentry.co/static/icons/512.png" />
+<img height="30" alt="Image" src="https://rentry.co/static/icons/512.png">
   <a>⠀⠀</a>
   <a href="https://ko-fi.com/zydr4t3/commissions">
-<img height="30" alt="Image" src="https://files.catbox.moe/se7r41.png" />
+<img height="30" alt="Image" src="https://files.catbox.moe/se7r41.png">
   <br>
-  <img src="https://files.catbox.moe/y5yva3.png" alt="Portal" width="250">
+  </div>
+<img src="https://files.catbox.moe/y5yva3.png" alt="Portal" width="250">
 <img src="https://gifcity.carrd.co/assets/images/gallery44/0aa29b0f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
-  
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=17&duration=1&pause=1&color=85AFC4&background=33314600&center=true&multiline=true&repeat=false&width=435&lines=Fictionkins%2C+kins%2C+hyperfixes..;Whatever+the+fuck+you+wanna+call+them" alt="Typing SVG" /></a>
 <details align="center">
 <summary>
-ㅤ ${\textsf{\color{#e0e0e0}Fictionkins, kins, hyperfixes.. Whatever the fuck you wanna call them}}$ </summary>
+ㅤ ${\textsf{\color{#e0e0e0}[ Click to show ]}}$ </summary>
 ${\textsf{\color{#949494}★ = current  ||  ᯓ = fictkins  ||  ⸝⸝ = kins}}$
   
   <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/characters/dan_mandel.png"></a>ㅤ ★ [Dan Mandel](https://villains.fandom.com/wiki/Dan_Mandel) [ Dan VS. ] ・ Me IRL.
