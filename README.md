@@ -64,7 +64,7 @@ ${\textsf{\color{#949494}★ = current  ||  ᯓ = fictkins  ||  ⸝⸝ = kins}}$
   
   <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/rick_prime.png"></a>ㅤ ★ [Rick Prime](https://villains.fandom.com/wiki/Rick_Prime) [ Rick and Morty ] ・ Heavy Kin.
   
-  <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/azulin.jpg"></a>ㅤ ⸝⸝ [Azulin](https://villains.fandom.com/wiki/Bluey) [ Unicorn Wars ] ・ Heavy Kin.
+  <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/azulin.jpg"></a>ㅤ ⸝⸝ [Azulin](https://villains.fandom.com/wiki/Bluey) [ Unicorn Wars ] ・ Kin.
   
   <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/nathan.webp"></a>ㅤ ⸝⸝ [Nathan Wallace](https://villains.fandom.com/wiki/Nathan_Wallace) [ REPO!TGO ] ・ Kin.
   
