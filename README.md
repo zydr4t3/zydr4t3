@@ -25,7 +25,7 @@
       $\color{#ffffff}\text{» ASD and OCD, working on NPD diagnosis.}$ <br>
       $\color{#ffffff}\text{» No specific DNI. Don't be weird and we're cool.}$ <br>
       $\color{#ffffff}\text{» Very opinionated - Block me if that's a problem.}$ <br>
-      $\color{#ffffff}\text{» Blunt and sarcastic - Do not take me too srsly.}$ <br>
+      $\color{#ffffff}\text{» Blunt and sarcastic - Don't take me too srsly.}$ <br>
       $\color{#85afc4}\text{I struggle with social cues, forming sentences or}$ <br>
       $\color{#85afc4}\text{understanding shit. Don't immediately jump to}$ <br>
       $\color{#85afc4}\text{conclusions if I say something you didn't get.}$ <br>
