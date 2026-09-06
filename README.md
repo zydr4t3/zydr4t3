@@ -20,8 +20,8 @@
   <table>
   <tr>
     <th align="left">
-      $\color{#ffffff}\text{» Straight aromantic male.}$ <br>
-      $\color{#ffffff}\text{» He/him preferred, but idc that much.}$ <br>
+      $\color{#ffffff}\text{» Straight aromantic male. He/him proouns.}$ <br>
+      $\color{#ffffff}\text{» I'm not a proshipper nor do I support it.}$ <br>
       $\color{#ffffff}\text{» ASD and OCD, working on NPD diagnosis.}$ <br>
       $\color{#ffffff}\text{» No specific DNI. Don't be weird and we're cool.}$ <br>
       $\color{#ffffff}\text{» Very opinionated - Block me if that's a problem.}$ <br>
