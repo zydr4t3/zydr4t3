@@ -2,11 +2,12 @@
 <body>
 <div align="center">
 <img src="https://files.catbox.moe/hctwcu.jpg" alt="Header" width="1000">
-<img src="https://gifcity.carrd.co/assets/images/gallery44/0aa29b0f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+<img src="https://gifcity.carrd.co/assets/images/gallery48/b63dcb7f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zydr4t3&left_text=Dimensions&left_color=%2385afc4&right_color=%23333146&logo=react&radius=5&height=25"/>
-  
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=17&duration=4000&color=85AFC4&center=true&multiline=true&repeat=false&width=435&lines=%22I+just+walked+into+your+garage;before+you+could+walk+into+mine!%22" alt="Typing SVG"/></a>
 <img src="https://gifcity.carrd.co/assets/images/gallery44/0aa29b0f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
-<img src="https://files.catbox.moe/dpmnkf.png" alt="PrimeSat" align="left" width="420">
+<img src="https://files.catbox.moe/dpmnkf.png" alt="PrimeSat" align="left" width="400">
 <br>
   <img src="https://gifcity.carrd.co/assets/images/gallery283/21972b50.gif?v=3fc8f5cd" width="10">
   <img src="https://gifcity.carrd.co/assets/images/gallery283/5ca9c9ea.gif?v=3fc8f5cd" width="20">
@@ -19,15 +20,15 @@
   <table>
   <tr>
     <th align="left">
-      $\color{#ffffff}\normalsize{\text{» For starters, I am a straight aromantic male.}}$ <br>
-      $\color{#ffffff}\normalsize{\text{» I mainly use he/him pronouns, but I don't mind any.}}$ <br>
-      $\color{#ffffff}\normalsize{\text{» I have Autism and OCD, currently working on an NPD diagnosis.}}$ <br>
-      $\color{#ffffff}\normalsize{\text{» I don't really have a specific DNI - Just don't be weird, thanks.}}$ <br>
-      $\color{#ffffff}\normalsize{\text{» I am a very opinionated person - if that's a problem, just block me.}}$ <br>
-      $\color{#ffffff}\normalsize{\text{» I am very blunt and sarcastic - Do not take all I say to heart.}}$ <br>
-      $\color{#85afc4}\normalsize{\text{I often struggle with social cues, forming sentences properly or}}$ <br>
-      $\color{#85afc4}\normalsize{\text{understanding shit sometimes. Don't immediately jump to conclusions}}$ <br>
-      $\color{#85afc4}\normalsize{\text{if I say something you don't understand - just DM me about it.}}$ <br>
+      $\color{#ffffff}\text{» For starters, I am a straight aromantic male.}$ <br>
+      $\color{#ffffff}\text{» I mainly use he/him pronouns, but I don't mind any.}$ <br>
+      $\color{#ffffff}\text{» I have Autism and OCD, currently working on an NPD diagnosis.}$ <br>
+      $\color{#ffffff}\text{» I don't really have a specific DNI - Just don't be weird, thanks.}$ <br>
+      $\color{#ffffff}\text{» I am a very opinionated person - if that's a problem, just block me.}$ <br>
+      $\color{#ffffff}\text{» I am very blunt and sarcastic - Do not take all I say to heart.}$ <br>
+      $\color{#85afc4}\text{I often struggle with social cues, forming sentences properly or}$ <br>
+      $\color{#85afc4}\text{understanding shit sometimes. Don't immediately jump to conclusions}$ <br>
+      $\color{#85afc4}\text{if I say something you don't understand - just DM me about it.}$ <br>
     </th>
   </tr>
   </table>
@@ -57,7 +58,7 @@ ${\textsf{\color{#949494}★ = current  ||  ᯓ = fictkins  ||  ⸝⸝ = kins}}$
   
 </details>
 
-<img src="https://gifcity.carrd.co/assets/images/gallery44/0aa29b0f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+<img src="https://gifcity.carrd.co/assets/images/gallery48/b63dcb7f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
 <img src="https://files.catbox.moe/9ef89v.jpg" alt="Footer" width="1000">
 </div>
 </body>
