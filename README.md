@@ -20,15 +20,16 @@
   <table>
   <tr>
     <th align="left">
-      $\color{#ffffff}\text{» For starters, I am a straight aromantic male.}$ <br>
-      $\color{#ffffff}\text{» I mainly use he/him pronouns, but I don't mind any.}$ <br>
-      $\color{#ffffff}\text{» I have Autism and OCD, currently working on an NPD diagnosis.}$ <br>
-      $\color{#ffffff}\text{» I don't really have a specific DNI - Just don't be weird, thanks.}$ <br>
-      $\color{#ffffff}\text{» I am a very opinionated person - if that's a problem, just block me.}$ <br>
-      $\color{#ffffff}\text{» I am very blunt and sarcastic - Do not take all I say to heart.}$ <br>
-      $\color{#85afc4}\text{I often struggle with social cues, forming sentences properly or}$ <br>
-      $\color{#85afc4}\text{understanding shit sometimes. Don't immediately jump to conclusions}$ <br>
-      $\color{#85afc4}\text{if I say something you don't understand - just DM me about it.}$ <br>
+      $\color{#ffffff}\text{» Straight aromantic male.}$ <br>
+      $\color{#ffffff}\text{» He/him preferred, but idc that much.}$ <br>
+      $\color{#ffffff}\text{» ASD and OCD, working on NPD diagnosis.}$ <br>
+      $\color{#ffffff}\text{» No specific DNI. Just don't be weird.}$ <br>
+      $\color{#ffffff}\text{» Very opinionated. Block if that's a problem.}$ <br>
+      $\color{#ffffff}\text{» Blunt and sarcastic. Do not take me too srsly.}$ <br>
+      $\color{#85afc4}\text{I struggle with social cues, forming sentences or}$ <br>
+      $\color{#85afc4}\text{understanding shit. Don't immediately jump to}$ <br>
+      $\color{#85afc4}\text{conclusions if I say something you didn't get.}$ <br>
+      $\color{#85afc4}\text{Just DM me if that's the case.}$ <br>
     </th>
   </tr>
   </table>
