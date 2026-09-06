@@ -1,1 +1,64 @@
-It's being remade, shut up
+<html>
+<body>
+<div align="center">
+<img src="https://files.catbox.moe/hctwcu.jpg" alt="Header" width="1000">
+<img src="https://gifcity.carrd.co/assets/images/gallery44/0aa29b0f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zydr4t3&left_text=Dimensions&left_color=%2385afc4&right_color=%23333146&logo=react&radius=5&height=25"/>
+  
+<img src="https://gifcity.carrd.co/assets/images/gallery44/0aa29b0f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+<img src="https://files.catbox.moe/dpmnkf.png" alt="PrimeSat" align="left" width="420">
+<br>
+  <img src="https://gifcity.carrd.co/assets/images/gallery283/21972b50.gif?v=3fc8f5cd" width="10">
+  <img src="https://gifcity.carrd.co/assets/images/gallery283/5ca9c9ea.gif?v=3fc8f5cd" width="20">
+  <img src="https://gifcity.carrd.co/assets/images/gallery283/49b8eb85.gif?v=3fc8f5cd" width="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Aromantic_Pride_Flag.svg/960px-Aromantic_Pride_Flag.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" width="70">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Straight_Ally_flag.svg/500px-Straight_Ally_flag.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" width="70">
+  <img src="https://gifcity.carrd.co/assets/images/gallery283/49b8eb85.gif?v=3fc8f5cd" width="30">
+  <img src="https://gifcity.carrd.co/assets/images/gallery283/5ca9c9ea.gif?v=3fc8f5cd" width="20">
+  <img src="https://gifcity.carrd.co/assets/images/gallery283/21972b50.gif?v=3fc8f5cd" width="10">
+  <table>
+  <tr>
+    <th align="left">
+      $\color{#ffffff}\normalsize{\text{» For starters, I am a straight aromantic male.}}$ <br>
+      $\color{#ffffff}\normalsize{\text{» I mainly use he/him pronouns, but I don't mind any.}}$ <br>
+      $\color{#ffffff}\normalsize{\text{» I have Autism and OCD, currently working on an NPD diagnosis.}}$ <br>
+      $\color{#ffffff}\normalsize{\text{» I don't really have a specific DNI - Just don't be weird, thanks.}}$ <br>
+      $\color{#ffffff}\normalsize{\text{» I am a very opinionated person - if that's a problem, just block me.}}$ <br>
+      $\color{#ffffff}\normalsize{\text{» I am very blunt and sarcastic - Do not take all I say to heart.}}$ <br>
+      $\color{#85afc4}\normalsize{\text{I often struggle with social cues, forming sentences properly or}}$ <br>
+      $\color{#85afc4}\normalsize{\text{understanding shit sometimes. Don't immediately jump to conclusions}}$ <br>
+      $\color{#85afc4}\normalsize{\text{if I say something you don't understand - just DM me about it.}}$ <br>
+    </th>
+  </tr>
+  </table>
+  <img src="https://files.catbox.moe/y5yva3.png" alt="Portal" width="250">
+<img src="https://gifcity.carrd.co/assets/images/gallery44/0aa29b0f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+  
+<details align="center">
+<summary>
+ㅤ ${\textsf{\color{#e0e0e0}Fictionkins, kins, hyperfixes.. Whatever the fuck you wanna call them}}$ </summary>
+${\textsf{\color{#949494}★ = current  ||  ᯓ = fictkins  ||  ⸝⸝ = kins}}$
+  
+  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/characters/dan_mandel.png"></a>ㅤ ★ [Dan Mandel](https://villains.fandom.com/wiki/Dan_Mandel) [ Dan VS. ] ・ Me IRL.
+  
+  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/characters/topher.png"></a>ㅤ ᯓ [Topher Bus](https://villains.fandom.com/wiki/Topher_Bus) [ Clone High ] ・ Fictkin.
+  
+  <a href="" target="_blank"><img width="22" src="https://file.garden/aW_DAafqA36RH8b9/characters/eric_cartman.png"></a> ㅤ ᯓ [Eric T. Cartman](https://villains.fandom.com/wiki/Eric_Cartman) [ South Park ] ・ Fictkin.
+  
+  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/characters/adam%20sip.png"></a>ㅤ ᯓ [First Man Adam](https://villains.fandom.com/wiki/Adam_(Hellaverse)) [ Hazbin Hotel ] ・ Fictionflicker.
+  
+  <a href="" target="_blank"><img width="32" src="https://file.garden/aW_DAafqA36RH8b9/characters/maddox.png"></a>ㅤᯓ [Dr. Maddox Hickey](https://www.youtube.com/watch?v=AuKR2fQbMBk) [ P:M.A.D. ] ・ Fictionflicker.
+  
+  <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/rick_prime.png"></a>ㅤ ★ [Rick Prime](https://villains.fandom.com/wiki/Rick_Prime) [ Rick and Morty ] ・ Heavy Kin.
+  
+  <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/azulin.jpg"></a>ㅤ ⸝⸝ [Azulin](https://villains.fandom.com/wiki/Bluey) [ Unicorn Wars ] ・ Heavy Kin.
+  
+  <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/nathan.webp"></a>ㅤ ⸝⸝ [Nathan Wallace](https://villains.fandom.com/wiki/Nathan_Wallace) [ REPO!TGO ] ・ Kin.
+  
+</details>
+
+<img src="https://gifcity.carrd.co/assets/images/gallery44/0aa29b0f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+<img src="https://files.catbox.moe/9ef89v.jpg" alt="Footer" width="1000">
+</div>
+</body>
+</html>
