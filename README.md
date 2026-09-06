@@ -5,7 +5,7 @@
 <img src="https://gifcity.carrd.co/assets/images/gallery48/b63dcb7f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zydr4t3&left_text=Dimensions&left_color=%2385afc4&right_color=%23333146&logo=react&radius=5&height=25"/>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=17&duration=4000&color=85AFC4&center=true&multiline=true&repeat=false&width=435&lines=%22I+just+walked+into+your+garage;before+you+could+walk+into+mine!%22" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=17&duration=3000&pause=1&color=85AFC4&background=33314600&center=true&multiline=true&repeat=false&width=435&height=55&lines=%22I+just+walked+into+your+garage;before+you+could+walk+into+mine!%22" alt="Typing SVG" /></a>
 <img src="https://gifcity.carrd.co/assets/images/gallery44/0aa29b0f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
 <img src="https://files.catbox.moe/dpmnkf.png" alt="PrimeSat" align="left" width="370">
 <br>
