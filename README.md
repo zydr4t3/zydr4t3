@@ -29,7 +29,7 @@
       $\color{#85afc4}\text{I struggle with social cues, forming sentences or}$ <br>
       $\color{#85afc4}\text{understanding shit. Don't immediately jump to}$ <br>
       $\color{#85afc4}\text{conclusions if I say something you didn't get.}$ <br>
-      $\color{#85afc4}\text{Just DM me if that's the case.}$ <br>
+      $\color{#85afc4}\text{Just DM me if that's the case. Thanks. : )}$ <br>
     </th>
   </tr>
   </table>
