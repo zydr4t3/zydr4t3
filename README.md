@@ -33,6 +33,15 @@
     </th>
   </tr>
   </table>
+  <a href="https://zydr4t3.atabook.org/">
+<img height="30" alt="Image" src="https://files.catbox.moe/p14wy7.webp" />
+  <a>⠀⠀</a>
+  <a href="https://rentry.co/dan-vs">
+<img height="30" alt="Image" src="https://rentry.co/static/icons/512.png" />
+  <a>⠀⠀</a>
+  <a href="https://ko-fi.com/zydr4t3/commissions">
+<img height="30" alt="Image" src="https://files.catbox.moe/se7r41.png" />
+  <br>
   <img src="https://files.catbox.moe/y5yva3.png" alt="Portal" width="250">
 <img src="https://gifcity.carrd.co/assets/images/gallery44/0aa29b0f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
   
