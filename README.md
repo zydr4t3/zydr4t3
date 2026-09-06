@@ -7,7 +7,7 @@
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=17&duration=4000&color=85AFC4&center=true&multiline=true&repeat=false&width=435&lines=%22I+just+walked+into+your+garage;before+you+could+walk+into+mine!%22" alt="Typing SVG"/></a>
 <img src="https://gifcity.carrd.co/assets/images/gallery44/0aa29b0f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
-<img src="https://files.catbox.moe/dpmnkf.png" alt="PrimeSat" align="left" width="400">
+<img src="https://files.catbox.moe/dpmnkf.png" alt="PrimeSat" align="left" width="370">
 <br>
   <img src="https://gifcity.carrd.co/assets/images/gallery283/21972b50.gif?v=3fc8f5cd" width="10">
   <img src="https://gifcity.carrd.co/assets/images/gallery283/5ca9c9ea.gif?v=3fc8f5cd" width="20">
