@@ -23,13 +23,13 @@
       $\color{#ffffff}\text{» Straight aromantic male.}$ <br>
       $\color{#ffffff}\text{» He/him preferred, but idc that much.}$ <br>
       $\color{#ffffff}\text{» ASD and OCD, working on NPD diagnosis.}$ <br>
-      $\color{#ffffff}\text{» No specific DNI. Just don't be weird.}$ <br>
-      $\color{#ffffff}\text{» Very opinionated. Block if that's a problem.}$ <br>
-      $\color{#ffffff}\text{» Blunt and sarcastic. Do not take me too srsly.}$ <br>
+      $\color{#ffffff}\text{» No specific DNI. Don't be weird and we're cool.}$ <br>
+      $\color{#ffffff}\text{» Very opinionated - Block me if that's a problem.}$ <br>
+      $\color{#ffffff}\text{» Blunt and sarcastic - Do not take me too srsly.}$ <br>
       $\color{#85afc4}\text{I struggle with social cues, forming sentences or}$ <br>
       $\color{#85afc4}\text{understanding shit. Don't immediately jump to}$ <br>
       $\color{#85afc4}\text{conclusions if I say something you didn't get.}$ <br>
-      $\color{#85afc4}\text{Just DM me if that's the case. Thanks. : )}$ <br>
+      $\color{#85afc4}\text{Just DM me if that's the case. Thanks.}$ <br>
     </th>
   </tr>
   </table>
