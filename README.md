@@ -22,7 +22,7 @@
     <th align="left">
       $\color{#ffffff}\text{» Straight aromantic male. He/him pronouns.}$ <br>
       $\color{#ffffff}\text{» I'm not a proshipper nor do I support it.}$ <br>
-      $\color{#ffffff}\text{» ASD and OCD, working on NPD diagnosis.}$ <br>
+      $\color{#ffffff}\text{» ASD, OCD and NPD diagnosis.. yikes!}$ <br>
       $\color{#ffffff}\text{» No specific DNI. Don't be weird and we're cool.}$ <br>
       $\color{#ffffff}\text{» Very opinionated - Block me if that's a problem.}$ <br>
       $\color{#ffffff}\text{» Blunt and sarcastic - Don't take me too srsly.}$ <br>
