@@ -21,7 +21,7 @@
   <tr>
     <th align="left">
       $\color{#ffffff}\text{» Straight aromantic male. He/him pronouns.}$ <br>
-      $\color{#ffffff}\text{» Not a proshipper - Don't even joke lad.}$ <br>
+      $\color{#ffffff}\text{» Not a proshipper. Don't even joke lad...}$ <br>
       $\color{#ffffff}\text{» ASD, OCD and NPD diagnosis.. yikes! What a combo.}$ <br>
       $\color{#ffffff}\text{» No specific DNI. Don't be weird and we're cool.}$ <br>
       $\color{#ffffff}\text{» Very opinionated - Block me if that's a problem.}$ <br>
