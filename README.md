@@ -3,20 +3,20 @@
 <div align="center">
 <img src="https://files.catbox.moe/spsuez.png" alt="Header" width="1000">
 <img src="https://gifcity.carrd.co/assets/images/gallery48/b63dcb7f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=zydr4t3&left_text=Lobotomized&left_color=%23eab62d&right_color=%23233567&logo=react&radius=5&height=25"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zydr4t3&left_text=Lobotomized&left_color=%23c8c5c1&right_color=%23eab62d&logo=react&radius=5&height=25"/>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=17&duration=3000&pause=1&color=EAB62D&center=true&multiline=true&repeat=false&width=435&height=55&lines=%22+They+call+me+Lord+Verity!;Master+of+Humanity!+%22" alt="Typing SVG" alt="Typing SVG" /></a>
-<img src="https://gifcity.carrd.co/assets/images/gallery41/f0a72344.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+<img src="https://gifcity.carrd.co/assets/images/gallery41/81708b40.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
 <img src="https://files.catbox.moe/k2p65o.png" alt="LordVerity" align="left" width="370">
 <br>
-  <img src="https://gifcity.carrd.co/assets/images/gallery283/21972b50.gif?v=3fc8f5cd" width="10">
-  <img src="https://gifcity.carrd.co/assets/images/gallery283/5ca9c9ea.gif?v=3fc8f5cd" width="20">
-  <img src="https://gifcity.carrd.co/assets/images/gallery283/49b8eb85.gif?v=3fc8f5cd" width="30">
+  <img src="https://gifcity.carrd.co/assets/images/gallery143/0a9ecd83.gif?v=3fc8f5cd" width="10">
+  <img src="https://gifcity.carrd.co/assets/images/gallery12/8340bbdc.gif?v=3fc8f5cd" width="20">
+  <img src="https://gifcity.carrd.co/assets/images/gallery03/546b0bf9.gif?v=3fc8f5cd" width="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Aromantic_Pride_Flag.svg/960px-Aromantic_Pride_Flag.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" width="70">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Straight_Ally_flag.svg/500px-Straight_Ally_flag.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" width="70">
-  <img src="https://gifcity.carrd.co/assets/images/gallery283/49b8eb85.gif?v=3fc8f5cd" width="30">
-  <img src="https://gifcity.carrd.co/assets/images/gallery283/5ca9c9ea.gif?v=3fc8f5cd" width="20">
-  <img src="https://gifcity.carrd.co/assets/images/gallery283/21972b50.gif?v=3fc8f5cd" width="10">
+  <img src="https://gifcity.carrd.co/assets/images/gallery03/546b0bf9.gif?v=3fc8f5cd" width="30">
+  <img src="https://gifcity.carrd.co/assets/images/gallery12/8340bbdc.gif?v=3fc8f5cd" width="20">
+  <img src="https://gifcity.carrd.co/assets/images/gallery143/0a9ecd83.gif?v=3fc8f5cd" width="10">
   <table>
   <tr>
     <th align="left">
@@ -44,7 +44,7 @@
   <br>
   </div>
 <img src="https://files.catbox.moe/vbbga2.webp" alt="LVring" width="250">
-<img src="https://gifcity.carrd.co/assets/images/gallery44/0aa29b0f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+<img src="https://gifcity.carrd.co/assets/images/gallery41/81708b40.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=1&pause=1&color=EAB62D&center=true&multiline=true&repeat=false&width=435&height=70&lines=Mediakins%2C+kins%2C+hyperfixes...;Whatever+the+fuck+you+wanna+call+them" alt="Typing SVG" /></a>
 <details align="center">
