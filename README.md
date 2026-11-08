@@ -50,7 +50,7 @@
 <details align="center">
 <summary>
 ㅤ ${\textsf{\color{#e0e0e0}Click to show list of kins, mediakins and similar...}}$ </summary>
-${\textsf{\color{#949494}★ = current  ||  ᯓ = fictkins  ||  ⸝⸝ = kins}}$
+${\textsf{\color{#949494}★ = current  ||  ᯓ = mediakins  ||  ⸝⸝ = kins}}$
   
   <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/characters/dan_mandel.png"></a>ㅤ ᯓ [Dan Mandel](https://villains.fandom.com/wiki/Dan_Mandel) [ Dan VS. ] ・ Me IRL.
   
@@ -58,7 +58,7 @@ ${\textsf{\color{#949494}★ = current  ||  ᯓ = fictkins  ||  ⸝⸝ = kins}}$
   
   <a href="" target="_blank"><img width="22" src="https://file.garden/aW_DAafqA36RH8b9/characters/eric_cartman.png"></a> ㅤ ★ [Eric T. Cartman](https://villains.fandom.com/wiki/Eric_Cartman) [ South Park ] ・ Fictkin.
   
-  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/characters/adam%20sip.png"></a>ㅤ ★ [First Man Adam](https://villains.fandom.com/wiki/Adam_(Hellaverse)) [ Hazbin Hotel ] ・ Fictionflicker.
+  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/characters/adam%20sip.png"></a>ㅤ ᯓ [First Man Adam](https://villains.fandom.com/wiki/Adam_(Hellaverse)) [ Hazbin Hotel ] ・ Fictionflicker.
   
   <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/rick_prime.png"></a>ㅤ ⸝⸝ [Rick Prime](https://villains.fandom.com/wiki/Rick_Prime) [ Rick and Morty ] ・ Kin.
   
