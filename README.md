@@ -1,14 +1,16 @@
 <html>
-  <div align="center">
-<img src="https://files.catbox.moe/nogp9j.png" alt="StolenSkin" align="left" width="150">
-<br>
-    ← Hi! Just been informed of this and I find it rlly funny and stupid... <br>
-    But if you see this skin, then that is not me LMAO! Some little amoeba <br>
-    stole my skin for some reason and is now parading around w it
-</div>
-<br>
+<header>
   <img src="https://gifcity.carrd.co/assets/images/gallery41/81708b40.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+  <div align="center">
+    <img src="https://files.catbox.moe/nogp9j.png" alt="StolenSkin" align="left" width="150">
+    <br>
+      ← Hi! Just been informed of this and I find it rlly funny and stupid... <br>
+      But if you see this skin, then that is not me LMAO! Some little amoeba <br>
+      stole my skin for some reason and is now parading around w it
+  </div>
   <br>
+    <img src="https://gifcity.carrd.co/assets/images/gallery41/81708b40.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+</header>
 <body>
 <div align="center">
 <img src="https://files.catbox.moe/spsuez.png" alt="Header" width="1000">
