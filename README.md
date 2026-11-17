@@ -1,7 +1,6 @@
 <html>
 <body>
 <div align="center">
-<img src="https://gifcity.carrd.co/assets/images/gallery47/0d10ba35.gif?v=3fc8f5cd" alt="Divider" width="1000" height="60">
 <img src="https://files.catbox.moe/v5uz3g.png" alt="Header" width="1000">
 <img src="https://files.catbox.moe/44yn0q.jpg" alt="Divider" width="1000" height="40">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zydr4t3&left_text=Decayed&left_color=%23c8c5c1&right_color=%223c8c5c1&logo=react&radius=5&height=25"/>
