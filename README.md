@@ -36,10 +36,10 @@
   </table>
   <div><a href="https://zydr4t3.atabook.org/">
 <img height="50" alt="Image" src="https://files.catbox.moe/p14wy7.webp">
-  <a>⠀⠀⠀⠀⠀⠀</a>
+  <a>⠀⠀⠀⠀</a>
   <a href="https://rentry.co/dan-vs">
 <img height="50" alt="Image" src="https://rentry.co/static/icons/512.png">
-  <a>⠀⠀⠀⠀⠀⠀</a>
+  <a>⠀⠀⠀⠀</a>
   <a href="https://ko-fi.com/zydr4t3/commissions">
 <img height="50" alt="Image" src="https://files.catbox.moe/se7r41.png">
   <br>
