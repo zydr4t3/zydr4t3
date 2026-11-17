@@ -47,7 +47,7 @@
 <img src="https://files.catbox.moe/25ur85.jpg" alt="ShiggyShock" width="350">
 <img src="https://gifcity.carrd.co/assets/images/gallery48/b63dcb7f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=1&pause=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=435&height=70&lines=Mediakins%2C+kins%2C+hyperfixes...;Whatever+the+fuck+you+wanna+call+them" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=1&pause=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=435&height=70&lines=Mediakins%2C+kins%2C+hyperfixes...;Whatever+the+fuck+you+wanna+call+them+." alt="Typing SVG" /></a>
 <details align="center">
 <summary>
 ㅤ ${\textsf{\color{#e0e0e0}Click to show list of kins, mediakins and similar...}}$ </summary>
