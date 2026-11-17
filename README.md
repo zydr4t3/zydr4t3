@@ -2,6 +2,7 @@
 <body>
 <div align="center">
 <img src="https://files.catbox.moe/v5uz3g.png" alt="Header" width="1000">
+<br>
 <img src="https://files.catbox.moe/44yn0q.jpg" alt="Divider" width="1000" height="40">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zydr4t3&left_text=Decayed&left_color=%23c8c5c1&right_color=%223c8c5c1&logo=react&radius=5&height=25"/>
 <br>
@@ -69,6 +70,7 @@ ${\textsf{\color{#949494}★ = current  ||  ᯓ = mediakins  ||  ⸝⸝ = kins}}
 </details>
 
 <img src="https://files.catbox.moe/c7frna.jpg" alt="Divider" width="1000" height="40">
+<br>
 <img src="https://files.catbox.moe/p4ghzh.jpg" alt="Footer" width="1000">
 <img src="https://64.media.tumblr.com/c4414edbe08b816ae1ea8e93045aaccd/36afa839df5dd5b9-13/s400x600/d67f483554f0888a3f68366a13af216b5c91ff64.pnj" alt="Divider" width="1000" height="120">
 </div>
