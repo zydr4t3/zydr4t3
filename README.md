@@ -2,21 +2,21 @@
 <body>
 <div align="center">
 <img src="https://files.catbox.moe/v5uz3g.png" alt="Header" width="1000">
-<img src="https://gifcity.carrd.co/assets/images/gallery48/b63dcb7f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+<img src="https://files.catbox.moe/44yn0q.jpg" alt="Divider" width="1000" height="40">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zydr4t3&left_text=Decayed&left_color=%23c8c5c1&right_color=%223c8c5c1&logo=react&radius=5&height=25"/>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=3000&pause=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=435&height=70&lines=%22+I'll+destroy+everything...;Including+myself.+%22" alt="Typing SVG" alt="Typing SVG" /></a>
-<img src="https://gifcity.carrd.co/assets/images/gallery49/fb765e90.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
-<img src="https://files.catbox.moe/om7mpv.png" alt="ShiggyCrush" align="left" width="270">
+<img src="https://gifcity.carrd.co/assets/images/gallery48/b63dcb7f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+<img src="https://files.catbox.moe/om7mpv.png" alt="ShiggyCrush" align="left" width="350">
 <br>
-  <img src="https://gifcity.carrd.co/assets/images/gallery143/0a9ecd83.gif?v=3fc8f5cd" width="10">
+  <img src="https://gifcity.carrd.co/assets/images/gallery12/ab494a1c.gif?v=3fc8f5cd" width="10">
   <img src="https://gifcity.carrd.co/assets/images/gallery12/8340bbdc.gif?v=3fc8f5cd" width="20">
-  <img src="https://gifcity.carrd.co/assets/images/gallery03/546b0bf9.gif?v=3fc8f5cd" width="30">
+  <img src="https://64.media.tumblr.com/76b3452d813b1103eba8f0620385b3bd/70bbeb95b6e13e24-10/s250x400/ed0bb63dadf49417e53b78a635c1bbd6c41bab30.pnj" width="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Aromantic_Pride_Flag.svg/960px-Aromantic_Pride_Flag.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" width="70">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Straight_Ally_flag.svg/500px-Straight_Ally_flag.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" width="70">
-  <img src="https://gifcity.carrd.co/assets/images/gallery03/546b0bf9.gif?v=3fc8f5cd" width="30">
+  <img src="https://64.media.tumblr.com/76b3452d813b1103eba8f0620385b3bd/70bbeb95b6e13e24-10/s250x400/ed0bb63dadf49417e53b78a635c1bbd6c41bab30.pnj" width="30">
   <img src="https://gifcity.carrd.co/assets/images/gallery12/8340bbdc.gif?v=3fc8f5cd" width="20">
-  <img src="https://gifcity.carrd.co/assets/images/gallery143/0a9ecd83.gif?v=3fc8f5cd" width="10">
+  <img src="https://gifcity.carrd.co/assets/images/gallery12/ab494a1c.gif?v=3fc8f5cd" width="10">
   <table>
   <tr>
     <th align="left">
@@ -26,10 +26,10 @@
       $\color{#ffffff}\text{» No specific DNI. Don't be weird and we're cool.}$ <br>
       $\color{#ffffff}\text{» Very opinionated - Block me if that's a problem.}$ <br>
       $\color{#ffffff}\text{» Blunt and sarcastic - Don't take me too srsly.}$ <br>
-      $\color{#eab62d}\text{I struggle with social cues, forming sentences or}$ <br>
-      $\color{#eab62d}\text{understanding shit. Don't immediately jump to}$ <br>
-      $\color{#eab62d}\text{conclusions if I say something you didn't get.}$ <br>
-      $\color{#eab62d}\text{Just DM me if that's the case. Thanks.}$ <br>
+      $\color{#b6b4b0}\text{I struggle with social cues, forming sentences or}$ <br>
+      $\color{#b6b4b0}\text{understanding shit. Don't immediately jump to}$ <br>
+      $\color{#b6b4b0}\text{conclusions if I say something you didn't get.}$ <br>
+      $\color{#b6b4b0}\text{Just DM me if that's the case. Thanks.}$ <br>
     </th>
   </tr>
   </table>
@@ -44,7 +44,7 @@
   <br>
   </div>
 <img src="https://files.catbox.moe/s3g0gv.jpg" alt="ShiggySit" width="250">
-<img src="https://gifcity.carrd.co/assets/images/gallery49/fb765e90.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+<img src="https://gifcity.carrd.co/assets/images/gallery48/b63dcb7f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=1&pause=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=435&height=70&lines=Mediakins%2C+kins%2C+hyperfixes...;Whatever+the+fuck+you+wanna+call+them" alt="Typing SVG" /></a>
 <details align="center">
@@ -68,7 +68,7 @@ ${\textsf{\color{#949494}★ = current  ||  ᯓ = mediakins  ||  ⸝⸝ = kins}}
   
 </details>
 
-<img src="https://gifcity.carrd.co/assets/images/gallery48/b63dcb7f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+<img src="https://files.catbox.moe/c7frna.jpg" alt="Divider" width="1000" height="40">
 <img src="https://files.catbox.moe/p4ghzh.jpg" alt="Footer" width="1000">
 </div>
 </body>
