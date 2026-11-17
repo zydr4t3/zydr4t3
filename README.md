@@ -55,11 +55,11 @@ ${\textsf{\color{#949494}★ = current  ||  ᯓ = mediakins  ||  ⸝⸝ = kins}}
   
   <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/characters/dan_mandel.png"></a>ㅤ ᯓ [Dan Mandel](https://villains.fandom.com/wiki/Dan_Mandel) [ Dan VS. ] ・ Me IRL.
   
-  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/characters/topher.png"></a>ㅤ ᯓ [Topher Bus](https://villains.fandom.com/wiki/Topher_Bus) [ Clone High ] ・ Fictkin.
+  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/characters/topher.png"></a>ㅤ ᯓ [Topher Bus](https://villains.fandom.com/wiki/Topher_Bus) [ Clone High ] ・ Mediakin.
   
-  <a href="" target="_blank"><img width="22" src="https://file.garden/aW_DAafqA36RH8b9/characters/eric_cartman.png"></a> ㅤ ★ [Eric T. Cartman](https://villains.fandom.com/wiki/Eric_Cartman) [ South Park ] ・ Fictkin.
+  <a href="" target="_blank"><img width="22" src="https://file.garden/aW_DAafqA36RH8b9/characters/eric_cartman.png"></a> ㅤ ★ [Eric T. Cartman](https://villains.fandom.com/wiki/Eric_Cartman) [ South Park ] ・ Mediakin.
   
-  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/characters/adam%20sip.png"></a>ㅤ ᯓ [First Man Adam](https://villains.fandom.com/wiki/Adam_(Hellaverse)) [ Hazbin Hotel ] ・ Fictionflicker.
+  <a href="" target="_blank"><img width="26" src="https://file.garden/aW_DAafqA36RH8b9/characters/adam%20sip.png"></a>ㅤ ᯓ [First Man Adam](https://villains.fandom.com/wiki/Adam_(Hellaverse)) [ Hazbin Hotel ] ・ Mediakin.
   
   <a href="https://file.garden/Zy_Q1dCuUwZRDNyl/gourdyicon.png" target="_blank"><img width="25" src="https://file.garden/aW_DAafqA36RH8b9/characters/rick_prime.png"></a>ㅤ ⸝⸝ [Rick Prime](https://villains.fandom.com/wiki/Rick_Prime) [ Rick and Morty ] ・ Kin.
   
