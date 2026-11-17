@@ -1,25 +1,13 @@
 <html>
-<header>
-  <img src="https://gifcity.carrd.co/assets/images/gallery41/81708b40.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
-  <div align="center">
-    <img src="https://files.catbox.moe/nogp9j.png" alt="StolenSkin" align="left" width="150">
-    <br>
-      ← Hi! Just been informed of this and I find it rlly funny and stupid... <br>
-      But if you see this skin, then that is not me LMAO! Some little amoeba <br>
-      stole my skin for some reason and is now parading around w it
-  </div>
-  <br>
-    <img src="https://gifcity.carrd.co/assets/images/gallery41/81708b40.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
-</header>
 <body>
 <div align="center">
-<img src="https://files.catbox.moe/spsuez.png" alt="Header" width="1000">
+<img src="https://files.catbox.moe/v5uz3g.png" alt="Header" width="1000">
 <img src="https://gifcity.carrd.co/assets/images/gallery48/b63dcb7f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=zydr4t3&left_text=Lobotomized&left_color=%23c8c5c1&right_color=%23eab62d&logo=react&radius=5&height=25"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zydr4t3&left_text=Decayed&left_color=%23c8c5c1&right_color=%223c8c5c1&logo=react&radius=5&height=25"/>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=3000&pause=1&color=EAB62D&center=true&multiline=true&repeat=false&width=435&height=70&lines=%22+They+call+me+Lord+Verity!;Master+of+Humanity!+%22" alt="Typing SVG" alt="Typing SVG" /></a>
-<img src="https://gifcity.carrd.co/assets/images/gallery41/81708b40.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
-<img src="https://files.catbox.moe/k2p65o.png" alt="LordVerity" align="left" width="370">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=3000&pause=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=435&height=70&lines=%22+I'll+destroy+everything...;Including+myself.+%22" alt="Typing SVG" alt="Typing SVG" /></a>
+<img src="https://gifcity.carrd.co/assets/images/gallery49/fb765e90.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+<img src="https://files.catbox.moe/om7mpv.png" alt="ShiggyCrush" align="left" width="270">
 <br>
   <img src="https://gifcity.carrd.co/assets/images/gallery143/0a9ecd83.gif?v=3fc8f5cd" width="10">
   <img src="https://gifcity.carrd.co/assets/images/gallery12/8340bbdc.gif?v=3fc8f5cd" width="20">
@@ -55,10 +43,10 @@
 <img height="30" alt="Image" src="https://files.catbox.moe/se7r41.png">
   <br>
   </div>
-<img src="https://files.catbox.moe/vbbga2.webp" alt="LVring" width="250">
-<img src="https://gifcity.carrd.co/assets/images/gallery41/81708b40.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
+<img src="https://files.catbox.moe/s3g0gv.jpg" alt="ShiggySit" width="250">
+<img src="https://gifcity.carrd.co/assets/images/gallery49/fb765e90.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=1&pause=1&color=EAB62D&center=true&multiline=true&repeat=false&width=435&height=70&lines=Mediakins%2C+kins%2C+hyperfixes...;Whatever+the+fuck+you+wanna+call+them" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=1&pause=1&color=FFFFFF&center=true&multiline=true&repeat=false&width=435&height=70&lines=Mediakins%2C+kins%2C+hyperfixes...;Whatever+the+fuck+you+wanna+call+them" alt="Typing SVG" /></a>
 <details align="center">
 <summary>
 ㅤ ${\textsf{\color{#e0e0e0}Click to show list of kins, mediakins and similar...}}$ </summary>
@@ -81,7 +69,7 @@ ${\textsf{\color{#949494}★ = current  ||  ᯓ = mediakins  ||  ⸝⸝ = kins}}
 </details>
 
 <img src="https://gifcity.carrd.co/assets/images/gallery48/b63dcb7f.gif?v=3fc8f5cd" alt="Divider" width="1000" height="20">
-<img src="https://files.catbox.moe/gjx5nw.png" alt="Footer" width="1000">
+<img src="https://files.catbox.moe/p4ghzh.jpg" alt="Footer" width="1000">
 </div>
 </body>
 </html>
