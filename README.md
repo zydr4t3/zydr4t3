@@ -23,7 +23,7 @@
     <th align="left">
       $\color{#ffffff}\text{» Straight aromantic male. He/him pronouns.}$ <br>
       $\color{#ffffff}\text{» ASD, OCD and NPD diagnosis.. yikes! What a combo.}$ <br>
-      $\color{#ffffff}\text{» I'll talk about anything and everything, seriously.}$ <br>
+      $\color{#ffffff}\text{» I heavily dislike emotional convos and venting.}$ <br>
       $\color{#ffffff}\text{» No specific DNI. Don't be weird and we're cool.}$ <br>
       $\color{#ffffff}\text{» Very opinionated - Block me if that's a problem.}$ <br>
       $\color{#ffffff}\text{» Blunt and sarcastic - Don't take me too srsly.}$ <br>
