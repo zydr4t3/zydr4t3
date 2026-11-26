@@ -35,13 +35,13 @@
   </tr>
   </table>
   <div><a href="https://zydr4t3.atabook.org/">
-<img height="50" alt="Image" src="https://files.catbox.moe/p14wy7.webp">
+<img height="30" alt="ata" src="https://files.catbox.moe/p14wy7.webp">
   <a>⠀⠀⠀⠀</a>
   <a href="https://rentry.co/dan-vs">
-<img height="50" alt="Image" src="https://rentry.co/static/icons/512.png">
+<img height="30" alt="rentry" src="https://rentry.co/static/icons/512.png">
   <a>⠀⠀⠀⠀</a>
   <a href="https://ko-fi.com/zydr4t3/commissions">
-<img height="50" alt="Image" src="https://files.catbox.moe/se7r41.png">
+<img height="30" alt="kofi" src="https://files.catbox.moe/se7r41.png">
   <br>
   </div>
 <img src="https://files.catbox.moe/25ur85.jpg" alt="ShiggyShock" width="350">
