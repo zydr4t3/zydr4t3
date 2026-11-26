@@ -22,7 +22,7 @@
   <tr>
     <th align="left">
       $\color{#ffffff}\text{» Straight aromantic male. He/him pronouns.}$ <br>
-      $\color{#ffffff}\text{» I struggle with empathy and forming strong bonds.}$ <br>
+      $\color{#ffffff}\text{» I lack empathy, especially for strangers/randoms.}$ <br>
       $\color{#ffffff}\text{» ASD, OCD and NPD diagnosis.. yikes! What a combo.}$ <br>
       $\color{#ffffff}\text{» No specific DNI. Don't be weird and we're cool.}$ <br>
       $\color{#ffffff}\text{» Very opinionated - Block me if that's a problem.}$ <br>
